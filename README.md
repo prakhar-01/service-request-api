@@ -262,7 +262,7 @@ This project demonstrates:
 
 ---
 
-# 🗣️ Interview Explanation (Short Version)
+# 🗣️ Short and Crisp Description
 
 I built a Spring Boot layered REST API that manages service requests like a digital complaint register. The controller handles endpoints, DTO validates input, service applies business rules, repository persists using JPA, and MySQL stores the data.
 
